@@ -22,4 +22,4 @@ Enhance your threat hunting capabilities with THEIA - turning raw threat data in
 
 ## License:
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. 
